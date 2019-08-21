@@ -1,5 +1,5 @@
 <?php
-define( 'API_ACCESS_KEY', 'AAAAtL2SF1A:APA91bGBdtMf7Ao7NJhvMuDhs3Zp5gn-8LST0ZxMuu1AgXu7GW-yj5V9nprASDyID3apXfck0LLf6ZsUinwRP6lzMvEjDlpmxgua2S3NbGf8hfM61v-4_Fo_kH4QryjvlLgm-b3VQ5E0' );
+define( 'API_ACCESS_KEY', 'AAAAKz-GYXk:APA91bH_-IVpODC8-I2d7_cJSQmr6j1jYeJOuAanwlwx9XOQpksUOgxAa9ujnML7nIvB_sUpBX28mhJ-pGt2CEu6S0ZeYQC9qJS8_fOVEVgF2gbjXXMDtkF5ex2KP5lNL573Ob1DNiv2' );
 define( 'FIREBASE_SEND_URL', 'https://fcm.googleapis.com/fcm/send' );
 class FirebaseNotificationClass {
 	function __construct() {
